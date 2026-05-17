@@ -285,6 +285,14 @@ Include in subsequent requests:
 ```
 Authorization: Bearer <access_token>
 ```
+### Test Accounts
+
+The following seeded accounts are available for local development and testing:
+
+| Advisor ID | Name | Role | Username | Password |
+|------------|------|------|----------|----------|
+| ADV001 | Dr. Priya Mehta | Advisor | `ADV001` | `Dr. Priya Mehta001` |
+
 
 ---
 
